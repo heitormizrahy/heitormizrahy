@@ -2,7 +2,7 @@
 - 👀 I’m interested in react and nodejs
 - 🌱 I’m currently learning javascript and nodejs
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me, you can reach me on my email! heitormizrahy@gmail.com
+- 📫 How to reach me https://twitter.com/heitormizrahy
 
 
 <!---
